@@ -1,4 +1,4 @@
-# SNHU-CS-Portfolio
+# SNHU-CS-250-Portfolio
 College Project
 Interpreting User Needs and User Stories
 
